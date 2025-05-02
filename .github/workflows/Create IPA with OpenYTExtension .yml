@@ -1,4 +1,4 @@
-name: Create YouTube Plus app my
+name: Create IPA with OpenYTExtension
 
 on:
   workflow_dispatch:
